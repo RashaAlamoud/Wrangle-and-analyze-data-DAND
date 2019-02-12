@@ -39,9 +39,9 @@ Gather each of the three pieces of data as described below in a Jupyter Notebook
 1.The WeRateDogs Twitter archive:
 This file called <a href="https://github.com/RashaAlamoud/Wrangle-and-analyze-data-DAND/blob/master/twitter-archive-enhanced.csv"> twitter_archive_enhanced.csv</a>
 
-2.The tweet image predictions, i.e., what breed of dog (or other object, animal, etc.) is present in each tweet according to a neural network. This file called image_predictions.tsv.
+2.The tweet image predictions, i.e., what breed of dog (or other object, animal, etc.) is present in each tweet according to a neural network. This file called<a href="https://github.com/RashaAlamoud/Wrangle-and-analyze-data-DAND/blob/master/image_predictions.tsv"> image_predictions.tsv</a>
 
-3.Each tweet's retweet count and favorite ("like") count at minimum, and any additional data you find interesting. Using the tweet IDs in the WeRateDogs Twitter archive, query the Twitter API for each tweet's JSON data using Python's Tweepy library and store each tweet's entire set of JSON data in a file called tweet_json.txt file.
+3.Each tweet's retweet count and favorite ("like") count at minimum, and any additional data you find interesting. Using the tweet IDs in the WeRateDogs Twitter archive, query the Twitter API for each tweet's JSON data using Python's Tweepy library and store each tweet's entire set of JSON data in a file called <a href="https://raw.githubusercontent.com/RashaAlamoud/Wrangle-and-analyze-data-DAND/master/tweet_json.txt">tweet_json.txt </a>
 
 ## Data Assessing
 
