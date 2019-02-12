@@ -37,7 +37,7 @@ The dataset that I will be wrangling ,analyzing and visualizing is the tweet arc
 Gather each of the three pieces of data as described below in a Jupyter Notebook titled Wrangle_act.ipynb.
 
 1.The WeRateDogs Twitter archive:
-This file called <a herf=https://github.com/RashaAlamoud/Wrangle-and-analyze-data-DAND/blob/master/twitter-archive-enhanced.csv">     twitter_archive_enhanced.csv.</a>
+This file called twitter_archive_enhanced.csv.
 
 2.The tweet image predictions, i.e., what breed of dog (or other object, animal, etc.) is present in each tweet according to a neural network. This file called image_predictions.tsv.
 
@@ -68,6 +68,6 @@ At least eight (8) data quality issues and two (2) tidiness issues are detected,
 
 ## Report
 
--Wrangling efforts are briefly described in wrangle_report.pdf.
+-Wrangling efforts are briefly described in<a herf="https://github.com/RashaAlamoud/Wrangle-and-analyze-data-DAND/blob/master/Data%20Wrangling%20Report.pdf"> wrangle_report.pdf.</a>
 
 -act_report.pdf including visualization.
