@@ -70,4 +70,4 @@ At least eight (8) data quality issues and two (2) tidiness issues are detected,
 
 -Wrangling efforts are briefly described in<a herf="https://github.com/RashaAlamoud/Wrangle-and-analyze-data-DAND/blob/master/Data%20Wrangling%20Report.pdf"> wrangle_report.pdf.</a>
 
--act_report.pdf including visualization.
+-<a herf"https://github.com/RashaAlamoud/Wrangle-and-analyze-data-DAND/blob/master/act_report.pdf" >act_report.pdf </a>including visualization.
