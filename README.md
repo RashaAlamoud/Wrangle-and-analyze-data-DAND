@@ -59,7 +59,7 @@ At least eight (8) data quality issues and two (2) tidiness issues are detected,
 
 ## Storing and Acting on Wrangled Data 
 
--Save master dataset to a CSV file.This file called <a href"https://github.com/RashaAlamoud/Wrangle-and-analyze-data-DAND/blob/master/twitter_archive_master.csv">twitter_archive_master.csv</a>
+-Save master dataset to a CSV file.This file called <a href="https://github.com/RashaAlamoud/Wrangle-and-analyze-data-DAND/blob/master/twitter_archive_master.csv"> twitter_archive_master.csv</a>
 
 -The master dataset is analyzed using pandas in the Jupyter Notebook and at least three (3) separate insights are produced.
 
